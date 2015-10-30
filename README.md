@@ -38,3 +38,21 @@ A repository for collecting all interesting puzzles found in interviews and inte
 31. Given an array of n integers, where one element appears more than n/2 times, find that element in linear time and constant extra space. ([Solution](http://everything2.com/title/Array+mode+solution))
 32. A spinning disc is painted black on one half and white on the other (i.e., the line forming the border between the black and white regions of the disc is a diameter of the disc). The disk is spinning on a turntable in an unknown direction at an unknown speed. You have special video cameras that can observe the color of a single point on the disc. How many cameras do you need to determine the direction the disc is spinning? ([Solution](http://everything2.com/title/Spinning+disc+solution))
 33. Create an equilateral triangle using three toothpicks. Now add three more equilateral triangles of the same size as the original using only three more toothpicks. ([Solution](http://everything2.com/title/Six+toothpicks+solution))
+34. Write a method to generate a random number between 1 and 7, given a method that generates a random number between 1 and 5. The distribution between each of the numbers must be uniform.([Solution](http://www.mytechinterviews.com/equal-probability-between-1-and-7))
+35. You have two identical eggs. Standing in front of a 100 floor building, you wonder what is the maximum number of floors from which the egg can be dropped without breaking it. What is the minimum number of tries needed to find out the solution?([Solution](http://www.mytechinterviews.com/how-strong-is-your-egg))
+36. Four people need to cross a rickety bridge at night. Unfortunately, they have only one torch and the bridge is too dangerous to cross without one. The bridge is only strong enough to support two people at a time. Not all people take the same time to cross the bridge. Times for each person:  1 min, 2 mins, 7 mins and 10 mins. What is the shortest time needed for all four of them to cross the bridge?([Solution](http://www.mytechinterviews.com/four-people-on-a-rickety-bridge))
+37. The probability of a car passing a certain intersection in a 20 minute windows is 0.9. What is the probability of a car passing the intersection in a 5 minute window? (Assuming a constant probability throughout)([Solution](http://www.mytechinterviews.com/probability-of-a-car-passing-by))
+38. How would you cut a rectangular cake into two equal pieces when a rectangular piece has already been cut out of it? The cut piece can be of any size and orientation. You are only allowed to make one straight cut.([Solution](http://www.mytechinterviews.com/piece-of-cake))
+39. Two old friends, Jack and Bill, meet after a long time.
+
+
+Three kids
+Jack: Hey, how are you man?
+Bill: Not bad, got married and I have three kids now.
+Jack: That’s awesome. How old are they?
+Bill: The product of their ages is 72 and the sum of their ages is the same as your birth date.
+Jack: Cool… But I still don’t know.
+Bill: My eldest kid just started taking piano lessons.
+Jack: Oh now I get it.
+
+How old are Bill’s kids?([Solution](http://www.mytechinterviews.com/how-old-are-my-children))
