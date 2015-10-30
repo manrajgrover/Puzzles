@@ -45,14 +45,18 @@ A repository for collecting all interesting puzzles found in interviews and inte
 38. How would you cut a rectangular cake into two equal pieces when a rectangular piece has already been cut out of it? The cut piece can be of any size and orientation. You are only allowed to make one straight cut.([Solution](http://www.mytechinterviews.com/piece-of-cake))
 39. Two old friends, Jack and Bill, meet after a long time.
 
-
-Three kids
 Jack: Hey, how are you man?
+
 Bill: Not bad, got married and I have three kids now.
+
 Jack: That’s awesome. How old are they?
+
 Bill: The product of their ages is 72 and the sum of their ages is the same as your birth date.
+
 Jack: Cool… But I still don’t know.
+
 Bill: My eldest kid just started taking piano lessons.
+
 Jack: Oh now I get it.
 
 How old are Bill’s kids?([Solution](http://www.mytechinterviews.com/how-old-are-my-children))
