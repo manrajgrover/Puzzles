@@ -60,5 +60,3 @@ A repository for collecting all interesting puzzles found in interviews and inte
     Jack: Oh now I get it.
 
     How old are Bill’s kids?([Solution](http://www.mytechinterviews.com/how-old-are-my-children))
-    
-# Google Interview Puzzles
